@@ -13,7 +13,7 @@
 
 * Ejemplo de <sup>superíndice</sup>, <sub>subíndice</sub> y ~~tachado~~.
 
-![Esto es una imagen](https://miro.medium.com/max/1400/0*uFZztv9jRrQC3UxX.png)
+![Esto es una imagen](img/img1.png)
 
 * [Enlace a W3Schools](https://www.w3schools.com/)
 * [Enlace al ejercicio colores.xml](colores.xml)
