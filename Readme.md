@@ -4,7 +4,7 @@
 
   ***1.*** Realiza un fork del repositorio y corrige los errores. :heavy_check_mark:
 
-***2.*** Los errores **están** en el DTD interno**. :x:
+***2.*** Los errores **están** en el DTD interno. :x:
 
  ***3.*** Los ficheros no están formateados (están **mal las tabulaciones**), también corrije este aspecto. :memo:
 
