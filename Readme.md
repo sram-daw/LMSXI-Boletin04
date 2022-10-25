@@ -23,6 +23,7 @@
      - Lista más anidada
 
 
+Este es un ejemplo de cita de código: usa `git push` para actualizar los cambios en el repositorio remoto.
 ### Lista de tareas
 - [x] Leer apuntes COD
 - [ ] Trabajo SI
